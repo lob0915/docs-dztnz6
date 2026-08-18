@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-1ted4n.hartawin-pro.online/sitemap.xml
